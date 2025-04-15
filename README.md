@@ -8,3 +8,4 @@ How to run:
      - docker run -it -p 5000:5000 ctf-cyber-final
      - http://localhost:5000
 
+Note: Windows users can just run the .exe file if they wish
