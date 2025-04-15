@@ -5,6 +5,6 @@ How to run:
   2. Build the repo
      - docker build -t ctf-cyber-final .
   3. Run the container
-     - docker run -p 5000:5000 ctf-cyber-final
+     - docker run -it -p 5000:5000 ctf-cyber-final
      - http://localhost:5000
 
